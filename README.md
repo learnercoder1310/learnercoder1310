@@ -19,7 +19,6 @@
 - 💼 Currently working as **ServiceNow Developer Intern** @ TechSnitch Private Limited
 - 🤖 Passionate about **AI/ML, Full Stack Development & DSA**
 - 🚀 I love building real-world projects that solve actual problems
-- 📍 Sonipat, Haryana
 
 ---
 
