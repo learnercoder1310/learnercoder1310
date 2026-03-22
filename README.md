@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="mailto:anshul.bhardwaj7319@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anshul-bhardwaj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/anshul-bhardwaj-b24010256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/learnercoder1310"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://github.com/learnercoder1310"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -56,10 +56,10 @@
 
 | Project | Tech Stack | Highlights |
 |--------|-----------|------------|
-| 🤖 [AI-Powered Chess Analysis System](https://github.com/learnercoder1310) | Python, YOLOv8, Flask, JS | 90% piece detection accuracy, 2000+ image dataset |
-| ✈️ [Travel Companion Application](https://github.com/learnercoder1310) | React, Google Maps API, RapidAPI | Real-time geolocation, hotels/restaurants/attractions |
+| 🤖 [AI-Powered Chess Analysis System](https://github.com/learnercoder1310/AI-POWERED-CHESS-ANALYSIS) | Python, YOLOv8, Flask, JS | 90% piece detection accuracy, 2000+ image dataset |
+| ✈️ [Travel Companion Application](https://github.com/learnercoder1310/Travel-advisor) | React, Google Maps API, RapidAPI | Real-time geolocation, hotels/restaurants/attractions |
 | 🏦 [Bank Management System](https://github.com/learnercoder1310/bank-management-system) | C++ | Banker's Algorithm, Role-based access, File I/O |
-| 📧 [Email Spam Detection](https://github.com/learnercoder1310) | Python, SVM, NLTK, Scikit-learn | 99.03% accuracy on 5000+ emails |
+| 📧 [Email Spam Detection](https://github.com/learnercoder1310/Spam-Alert-Detection) | Python, SVM, NLTK, Scikit-learn | 99.03% accuracy on 5000+ emails |
 
 ---
 
