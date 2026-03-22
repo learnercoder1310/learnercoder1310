@@ -17,7 +17,7 @@
 
 - 🎓 B.Tech CSE @ **Jaypee University of Information Technology** (2022–2026) | CGPA: **7.79**
 - 💼 Currently working as **ServiceNow Developer Intern** @ TechSnitch Private Limited
-- 🤖 Passionate about **AI/ML, Full Stack Development & DSA**
+- 🤖 Passionate about **AI/ML, Front-end developement & DSA**
 - 🚀 I love building real-world projects that solve actual problems
 
 ---
