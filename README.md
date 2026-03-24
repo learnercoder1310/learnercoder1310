@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Anshul Bhardwaj</h1>
 
 <p align="center">
-  <b>Computer Science Undergrad @ JUIT Solan &nbsp;|&nbsp; ServiceNow Developer Intern &nbsp;|&nbsp; AI/ML Enthusiast</b>
+  <b>Computer Science Undergrad @ JUIT Solan &nbsp;|&nbsp; ServiceNow Developer Intern &nbsp;|&nbsp; AI/ML Enthusiast | &nbsp; Software Engineer</b>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 - 🎓 B.Tech CSE @ **Jaypee University of Information Technology** (2022–2026) | CGPA: **7.79**
 - 💼 Currently working as **ServiceNow Developer Intern** @ TechSnitch Private Limited
 - 🤖 Passionate about **AI/ML, Front-end developement & DSA**
-- 🚀 I love building real-world projects that solve actual problems
+- 🚀 I love building real-world projects that solve actual problems and solved almost 170+ questions on leetcode
 
 ---
 
