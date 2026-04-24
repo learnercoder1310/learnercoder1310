@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Anshul Bhardwaj</h1>
 
 <p align="center">
-  <b>Computer Science Undergrad @ JUIT Solan &nbsp;|&nbsp; ServiceNow Developer Intern &nbsp;|&nbsp; AI/ML Enthusiast | &nbsp; Software Engineer</b>
+  <b>Computer Science Undergrad @ JUIT Solan &nbsp;|&nbsp; ServiceNow Developer &nbsp;|&nbsp; AI/ML Enthusiast | &nbsp; Software Engineer</b>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 B.Tech CSE @ **Jaypee University of Information Technology** (2022–2026) | CGPA: **7.79**
-- 💼 Currently working as **ServiceNow Developer Intern** @ TechSnitch Private Limited
+- 💼 Currently working as **ServiceNow Developer** @ Mirai Zen technologies
 - 🤖 Passionate about **AI/ML, Front-end developement & DSA**
 - 🚀 I love building real-world projects that solve actual problems and solved almost 170+ questions on leetcode
 
@@ -24,7 +24,7 @@
 
 ## 💼 Experience
 
-**ServiceNow Developer Intern — TechSnitch Private Limited** *(Jan 2026 – Present)*
+**ServiceNow Developer — Mirai Zen Technologies** *(June 2024 – Present)*
 - 🔧 ITSM development using Flow Designer, Business Rules, Client Scripts & Virtual Agent
 - ⚡ Automated **80% of workflows** and improved platform usability by **35%**
 - 🛠️ Built custom ServiceNow apps with automated approvals, reducing manual effort by **55%**
